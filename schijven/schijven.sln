@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schijven", "schijven\schijven.csproj", "{45F0C6F7-FC24-45FF-A51E-AD8DA2A3ED7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F0C6F7-FC24-45FF-A51E-AD8DA2A3ED7F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{45F0C6F7-FC24-45FF-A51E-AD8DA2A3ED7F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{45F0C6F7-FC24-45FF-A51E-AD8DA2A3ED7F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{45F0C6F7-FC24-45FF-A51E-AD8DA2A3ED7F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
